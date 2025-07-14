@@ -64,8 +64,8 @@ POST /api/auth/login
 }
 
 **Authenticated Request:**
-Add header: Authorization: 
-Copy token from the login endpoint 
+Authorization by adding a header: 
+Copy the token from the login endpoint 
 Go to the Authorize Icon and paste
 "Bearer <your-jwt-token>"
 
@@ -74,4 +74,4 @@ Then call any `/api/books` endpoint.
 
 
 **Note:**  
-Sample books(string) are seeded automatically on first run.
+Sample books (strings) are seeded automatically on the first run.
