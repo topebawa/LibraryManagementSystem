@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\LibraryManagementSystem\LibraryManagement.API\obj\Debug\net7.0\LibraryManagement.API.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\LibraryManagementSystem\LibraryManagement.API\obj\Debug\net7.0\LibraryManagement.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\LibraryManagementSystem\LibraryManagement.API\obj\Debug\net7.0\LibraryManagement.API.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\LibraryManagementSystem\LibraryManagement.API\obj\Debug\net7.0\LibraryManagement.API.AssemblyInfo.cs
+C:\Users\USER\Desktop\LibraryManagementSystem\LibraryManagement.API\obj\Debug\net7.0\LibraryManagement.API.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\LibraryManagementSystem\LibraryManagement.API\obj\Debug\net7.0\LibraryManagement.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USER\Desktop\LibraryManagementSystem\LibraryManagement.API\obj\Debug\net7.0\LibraryManagement.API.MvcApplicationPartsAssemblyInfo.cache
